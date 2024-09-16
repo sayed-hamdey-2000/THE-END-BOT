@@ -1,12 +1,12 @@
 {
-  "name": "themystic-bot-md",
+  "name": "the-end-bot-md",
   "version": "1.0.0",
-  "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
+  "description": "bot WhatsApp by Node.js.",
   "main": "index.js",
   "type": "module",
   "directories": {
     "lib": "lib",
-    "src": "src",
+    "src": "files",
     "plugins": "plugins"
   },
   "scripts": {
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "homepage": "https://github.com/sayed-hamdey-2000/THE-END-BOT",
   "author": {
-    "name": "BrunoSobrino"
+    "name": "sayed-hamdey-2000"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+    "url": "git+https://github.com/sayed-hamdey-2000/THE-END-BOT.git"
   },
   "bugs": {
-    "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+    "url": "https://github.com/sayed-hamdey-2000/THE-END-BOT/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
