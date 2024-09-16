@@ -1,6 +1,21 @@
+
+##
+
+
+
 <p align="center">
   <img width="600px" src="https://telegra.ph/file/2b97c6e486ae7412c6122.jpg" alt="The-End-Bot-MD"/>
-  <h2 align="center">The-End-Bot-MD</h2>
+  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=5000&color=fc00ac&center=true&vCenter=falso&lines=W+E+L+C+O+M+E;The-End-Bot-MD; Create+By+:;⛊+The+End+Team."height="100px"></a> 
+  
+<p align="center">   
+<a href="https://github.com/sayed-hamdey-2000/THE-END-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sayed-hamdey-2000/THE-END-BOT?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/sayed-hamdey-2000/THE-END-BOT/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/sayed-hamdey-2000/THE-END-BOT?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/sayed-hamdey-2000/THE-END-BOT/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/sayed-hamdey-2000/THE-END-BOT?label=Stars&color=yellow&style=flat-square"></a>
+</p> 
+
+<h1> </h1>
+  <p align="center">The-End-Bot-MD</p>
+  <p align="center"> version : 1.1 </p>
   <p align="center">بوت واتساب مدعوم بالذكاء الاصطناعي ومبني بلغة Node.js.</p>
 </p>
 
