@@ -4,8 +4,8 @@
 
 
 <p align="center">
-  <img width="600px" src="https://telegra.ph/file/2b97c6e486ae7412c6122.jpg" alt="The-End-Bot-MD"/>
-  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=5000&color=fc00ac&center=true&vCenter=falso&lines=W+E+L+C+O+M+E;The-End-Bot-MD; Create+By+:;⛊+The+End+Team."height="100px"></a> 
+  <img width="1000px" src="https://github.com/sayed-hamdey-2000/THE-END-BOT/blob/The---End---Active/icon.png" alt="The-End-Bot-MD"/>
+  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=20&duration=5000&color=007bf&center=true&vCenter=falso&lines=W+E+L+C+O+M+E;The-End-Bot-MD; Create+By+:;⛊+The+End+Team."height="100px"></a> 
   
 <p align="center">   
 <a href="https://github.com/sayed-hamdey-2000/THE-END-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/sayed-hamdey-2000/THE-END-BOT?label=Forks&color=blue&style=flat-square"></a>
@@ -42,19 +42,19 @@
 ## التنصيب
 
 <p align="center">
-  <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/BrunoSobrino/TheMystic-Bot-MD&branch=master&name=mysticbot">
+  <a href="https://app.koyeb.com/deploy?type=git&repository=https://github.com/sayed-hamdey-2000/THE-END-BOT&branch=The---End---Active&name=theend">
     <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg" alt="Deploy to Koyeb"/>
   </a>
-  <a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FBrunoSobrino%2FTheMystic-Bot-MD">
+  <a href="https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2Fsayed-hamdey-2000%2FTHE-END-BOT">
     <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg" alt="Deploy to Render"/>
   </a>
-  <a href="https://repl.it/github/BrunoSobrino/TheMystic-Bot-MD">
+  <a href="https://repl.it/github/sayed-hamdey-2000/THE-END-BOT">
     <img src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg" alt="Run on Repl.it"/>
   </a>
   <a href="https://dashboard.toystack.ai/repositories/a1a5a3d9-c3df-453f-b2da-043e21f5c99e/deployments">
     <img src="https://via.placeholder.com/130x30/007bff/ffffff?text=Deploy+to+ToyStack" alt="Deploy to ToyStack"/>
   </a>
-  <a href="https://my.scalingo.com/deploy?source=https://github.com/BrunoSobrino/TheMystic-Bot-MD">
+  <a href="https://my.scalingo.com/deploy?source=https://github.com/sayed-hamdey-2000/THE-END-BOT">
     <img src="https://via.placeholder.com/130x30/4F4E8A/ffffff?text=Deploy+to+Scalingo" alt="Deploy to Scalingo"/>
   </a>
 </p>
