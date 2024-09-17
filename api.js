@@ -7,20 +7,20 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-/* Para agregar más APIs asegurate de poner global.apiname = ['APIKey'] */ /* By Skid 🤑 */
+
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
 
 global.openai_key = 'sk-0';
-/* Obtén tu API Key en este enlace: https://platform.openai.com/account/api-keys */
-
 global.openai_org_id = 'org-3';
-/* Obtén tu ID de organización en este enlace: https://platform.openai.com/account/org-settings */
+
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
 
 global.MyApiRestBaseUrl = 'https://api.cafirexos.com'; // Bloqueo de IP -> usar esta para no ser bloqueado: 'https://api-brunosobrino.onrender.com';
 global.MyApiRestApikey = 'BrunoSobrino';
-
 global.MyApiRestBaseUrl2 = 'https://api-brunosobrino-dcaf9040.koyeb.app';
-
 global.MyApiRestBaseUrl3 = 'https://api-brunosobrino.onrender.com'; 
+
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
 
 global.keysZens = ['LuOlangNgentot', 'c2459db922', '37CC845916', '6fb0eff124', 'hdiiofficial', 'fiktod', 'BF39D349845E', '675e34de8a', '0b917b905e6f'];
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())];
@@ -28,31 +28,65 @@ global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())];
 global.keysneoxrrr = ['5VC9rvNx', 'cfALv5'];
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())];
-global.lolkeysapi = ['GataDiosV2']; // ['BrunoSobrino_2']
+global.lolkeysapi = ['GataDiosV2']; 
 global.itsrose = ['4b146102c4d500809da9d1ff'];
 
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
+
 global.APIs = {
-  CFROSAPI: 'https://api.cafirexos.com',
-  xteam: 'https://api.xteam.xyz',
-  dzx: 'https://api.dhamzxploit.my.id',
-  lol: 'https://api.lolhuman.xyz',
-  neoxr: 'https://api.neoxr.my.id',
-  zenzapis: 'https://api.zahwazein.xyz',
+  adiisus: 'https://adiixyzapi.herokuapp.com',
   akuari: 'https://api.akuari.my.id',
   akuari2: 'https://apimu.my.id',
-  fgmods: 'https://api-fgmods.ddns.net',
+  amel: 'https://melcanz.com',
+  ana: 'https://anabotofc.herokuapp.com/',
+  BK9: 'https://apii.bk9.site',
   botcahx: 'https://api.botcahx.biz.id',
-  ibeng: 'https://api.ibeng.tech/docs',
-  rose: 'https://api.itsrose.site',
-  popcat: 'https://api.popcat.xyz',
-  xcoders: 'https://api-xcoders.site',
-  vihangayt: 'https://vihangayt.me',
+  botstyle: 'https://botstyle-api.herokuapp.com',
+  bx: 'https://bx-hunter.herokuapp.com',
+  CFROSAPI: 'https://api.cafirexos.com',
+  dhnjing: 'https://dhnjing.xyz',
+  dzx: 'https://api.dhamzxploit.my.id',
   erdwpe: 'https://api.erdwpe.com',
-  xyroinee: 'https://api.xyroinee.xyz',
+  fgmods: 'https://api-fgmods.ddns.net',
+  hardianto: 'https://hardianto-chan.herokuapp.com',
+  ibeng: 'https://api.ibeng.tech/docs',
+  jonaz: 'https://jonaz-api-v2.herokuapp.com',
+  kanx: 'https://kannxapi.herokuapp.com/', 
+  kotzyy: 'https://api.kotzyy.xyz',
+  lol: 'https://api.lolhuman.xyz',
+  males: 'https://malesin.xyz',
+  neoxr: 'https://neoxr-api.herokuapp.com',
   nekobot: 'https://nekobot.xyz',
-  BK9: 'https://apii.bk9.site'
+  nrtm: 'https://nurutomo.herokuapp.com',
+  pencarikode: 'https://pencarikode.xyz',
+  pasha: 'https://api.nataganz.com',
+  popcat: 'https://api.popcat.xyz',
+  rey: 'https://server-api-rey.herokuapp.com',
+  reysekha: 'https://web-production-d795.up.railway.app/',
+  rose: 'https://api.itsrose.site',
+  vahangayt: 'https://vihangayt.me',
+  violetics: 'https://violetics.pw',
+  xcoders: 'https://api-xcoders.site',
+  xteam: 'https://api.xteam.xyz',
+  xyroinee: 'https://api.xyroinee.xyz',
+  zahir: 'https://zahirr-web.herokuapp.com',
+  zahwazein: 'https://api.zahwazein.xyz/',
+  zeks: 'https://api.zeks.xyz',
+  zekais: 'http://zekais-api.herokuapp.com',
+  zenzapis: 'https://api.zahwazein.xyz',
+  ziy: 'https://ziy.herokuapp.com'
 },
 global.APIKeys = {
+  
+  'https://api.kotzyy.xyz': 'KotzKey', 
+  'https://bx-hunter.herokuapp.com': 'Ikyy69',
+  'https://hardianto-chan.herokuapp.com': 'hardianto',
+  'https://neoxr-api.herokuapp.com': 'yntkts',
+  'https://pencarikode.xyz': 'pais',
+  'https://api.xteam.xyz': 'apikeymu',
+  'https://zahirr-web.herokuapp.com': 'zahirgans',
+  'https://api.zeks.xyz': 'apivinz',
+  
   'https://api.xteam.xyz': `${keysxteam}`,
   'https://api.lolhuman.xyz': 'GataDios',
   'https://api.neoxr.my.id': `${keysneoxr}`,
@@ -66,12 +100,21 @@ global.APIKeys = {
   'https://apikasu.onrender.com': 'ApiKey'
 };
 
-/** ************************/
+ /*
+global.API = (name, path = '/', query = {}, apikeyqueryname) => (name in global.APIs ? global.APIs[name] : name) + path + (query || apikeyqueryname ? '?' + new URLSearchParams(Object.entries({ ...query, ...(apikeyqueryname ? { [apikeyqueryname]: global.APIKeys[name in global.APIs ? global.APIs[name] : name] } : {}) })) : '')
+
+
+
+ */
+
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
 global.cheerio = cheerio;
 global.fs = fs;
 global.fetch = fetch;
 global.axios = axios;
 global.moment = moment;
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
+
 global.rpg = {
   emoticon(string) {
     string = string.toLowerCase();
@@ -161,10 +204,14 @@ global.rpg = {
       ramuan: '🧪 Ingrediente NOVA',
       knife: '🔪 Cuchillo',
     };
+
+  /* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
     const results = Object.keys(emot).map((v) => [v, new RegExp(v, 'gi')]).filter((v) => v[1].test(string));
     if (!results.length) return '';
     else return emot[results[0][0]];
   }};
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
+
 global.rpgg = { // Solo emojis
   emoticon(string) {
     string = string.toLowerCase();
@@ -254,10 +301,14 @@ global.rpgg = { // Solo emojis
       ramuan: '🧪',
       knife: '🔪',
     };
+
+ /* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */ 
     const results = Object.keys(emott).map((v) => [v, new RegExp(v, 'gi')]).filter((v) => v[1].test(string));
     if (!results.length) return '';
     else return emott[results[0][0]];
   }};
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
+
 global.rpgshop = { // Tienda
   emoticon(string) {
     string = string.toLowerCase();
@@ -331,10 +382,14 @@ global.rpgshop = { // Tienda
       makananpet: '🍱🥩 Alimentos de mascotas',
       makananphonix: '🕊️🥩 Comida de Fénix',
     };
+
+  /* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
     const results = Object.keys(emottt).map((v) => [v, new RegExp(v, 'gi')]).filter((v) => v[1].test(string));
     if (!results.length) return '';
     else return emottt[results[0][0]];
   }};
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
+
 global.rpgshopp = { // Tienda
   emoticon(string) {
     string = string.toLowerCase();
@@ -408,10 +463,13 @@ global.rpgshopp = { // Tienda
       makananpet: '🍱🥩',
       makananphonix: '🕊️🥩',
     };
+  /* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
+    
     const results = Object.keys(emotttt).map((v) => [v, new RegExp(v, 'gi')]).filter((v) => v[1].test(string));
     if (!results.length) return '';
     else return emotttt[results[0][0]];
   }};
+/* ╾━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╼ */
 
 const file = fileURLToPath(import.meta.url);
 watchFile(file, () => {
