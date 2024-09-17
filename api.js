@@ -74,7 +74,8 @@ global.APIs = {
   zeks: 'https://api.zeks.xyz',
   zekais: 'http://zekais-api.herokuapp.com',
   zenzapis: 'https://api.zahwazein.xyz',
-  ziy: 'https://ziy.herokuapp.com'
+  ziy: 'https://ziy.herokuapp.com',
+  zoro: 'https://zoro-foryou.vercel.app'
 },
 global.APIKeys = {
   
