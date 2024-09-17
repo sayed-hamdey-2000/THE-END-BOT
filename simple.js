@@ -2130,6 +2130,16 @@ export function serialize() {
             enumerable: true,
 
           },
+	  react: {
+                        value(text) {
+                            return self.conn?.sendMessage(this.chat, {
+                                react: {
+                                    text,
+                                    key: this.vM.key
+                                }
+                            })
+			}
+                        },
         });
       },
       enumerable: true,
